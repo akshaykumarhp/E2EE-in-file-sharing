@@ -1,1 +1,16 @@
-This is a sample text file for testing End-to-End Encryption.
+Welcome to the End-to-End Encryption (E2EE) Demo!
+
+This is a sample text file designed to test the encryption and decryption functionalities of your program. The file includes:
+- Basic text content
+- Numbers: 1234567890
+- Special characters: !@#$%^&*()_+-=[]{}|;':",.<>?/\
+- Newlines and indentation for format testing
+
+Here is a quote for inspiration:
+"Security is not a product, but a process." - Bruce Schneier
+
+The quick brown fox jumps over the lazy dog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet eros nec justo convallis mollis.
+
+Testing... 1, 2, 3...
+File encryption begins here. Let the magic of cryptography unfold!
